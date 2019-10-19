@@ -19,9 +19,9 @@ email:
 description: Transforming Data
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author: Justin Simpson
+author:
   name: Justin Simpson
-  twitter: Twitter
+  twitter: Justin Simpson
   picture:
 twitter_username:
 github_username:
